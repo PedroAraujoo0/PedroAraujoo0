@@ -1,5 +1,7 @@
 ## Opa! Seja bem-vindo! Meu nome é José Pedro.
 
+##
+
 -🎯 Linguagem C (Intermediário + )
 - 👻 Futuro Full-Stack
 - 🧳 Estudando HTML, CSS e Python
