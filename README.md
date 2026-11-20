@@ -25,6 +25,6 @@
   <a href="https://instagram.com/gottesaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "jpedrocarvaraujo10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josé-pedro-carvalho-de-araújo-3a328935b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://pedroaraujoo0.github.io/HTML/" target="_blanck"><img src="https://www.flaticon.com/free-icon/business_15842967?term=badge&page=2&position=73&origin=tag&related_id=15842967" target="_blanck"></a>
+<a href="https://pedroaraujoo0.github.io/HTML/" target="_blanck"><img src="https://cdn-icons-png.flaticon.com/128/15842/15842967.png" target="_blanck"></a>
   
 </div>
